@@ -18,6 +18,7 @@ In this example i have used the matrices as follows
 A = [0 1;0 0] 
 B = [0 ; 1]
 C = [1 0]
+
 The initial gains of the controller i took were 
 Kp=1, Ki=10, Kd=0.1
 
